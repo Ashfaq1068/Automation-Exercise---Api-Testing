@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "306fba04-9b14-4781-a6b6-5489361e412c",
+		"name": "Automation Exercise",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43969889",
+		"_collection_link": "https://new-api-3331.postman.co/workspace/Ashfak~eb998e65-ad37-4bf8-bda3-068aea3848d5/collection/43969889-306fba04-9b14-4781-a6b6-5489361e412c?action=share&source=collection_link&creator=43969889"
+	},
+	"item": [
+		{
+			"name": "Get All Products List",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://automationexercise.com/api/productsList",
+					"protocol": "https",
+					"host": [
+						"automationexercise",
+						"com"
+					],
+					"path": [
+						"api",
+						"productsList"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
